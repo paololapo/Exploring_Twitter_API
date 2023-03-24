@@ -1,4 +1,4 @@
-# Exploring_Twitter_API
+# Twitter API in Python
 Some tests and experiments with Twitter API in Python, by Tweepy. During my holidays I tried to explore some very simple Natural Language Processing and Graph Theory tools, paying attention to inductive and algorithmic biases.
 Unfortunately it hasn't aged well due to Twitter's new 2023 policies.
 
